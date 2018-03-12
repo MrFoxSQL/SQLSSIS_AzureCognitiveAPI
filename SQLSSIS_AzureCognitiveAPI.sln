@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SQLSSIS_AzureCognitiveAPI", "SQLSSIS_AzureCognitiveAPI\SQLSSIS_AzureCognitiveAPI.dtproj", "{7D74CA0C-4ADE-4D8E-8017-B10DE7B0E289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D74CA0C-4ADE-4D8E-8017-B10DE7B0E289}.Development|Default.ActiveCfg = Development
+		{7D74CA0C-4ADE-4D8E-8017-B10DE7B0E289}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFAAFBB3-CEBC-453E-9F98-DF4B05D2A537}
+	EndGlobalSection
+EndGlobal
