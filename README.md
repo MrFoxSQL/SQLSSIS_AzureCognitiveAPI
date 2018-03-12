@@ -2,7 +2,7 @@
 A SQL SSIS package which integrates calls to Azure Cognitive Services Translate Text API.  The text translation is part of the ETL data flow to integrate multi-language support into a SQL DW with SQL SSIS ETL solution.  
 
 Please see associated blog post for more information on this application
-https://mrfoxsql.wordpress.com/2018/03/05/azure-cognitive-services-apis-with-sql-integration-services-packages
+https://mrfoxsql.wordpress.com/2018/03/13/azure-cognitive-services-apis-with-sql-integration-services-packages/
 
 Instructions;
 
